@@ -1,0 +1,35 @@
+body {
+background: #ffc996;
+color: #4e3620;
+margin: 0;
+text-align: center;
+font-size: 17px;
+font-family: 'Noto Sans', sans-serif;
+}
+h2 {
+  color: #4e3620;
+  text-align: center;
+  font-size: 2em;
+  text-shadow: 0 0 2px #e1701a;
+  font-weight: 400;
+}
+h3 {
+ text-align: center;
+}
+div {
+margin: 2% 14%;
+opacity: 0.9;
+border: 3px solid #766161;
+background: #e7d4b5;
+border-radius: 10px;
+}
+p {
+  text-align: justify;
+  padding: 0 10px;
+  text-shadow: 0 0 1px #de8971;
+}
+
+img {
+  padding: 0 8px;
+  width: 35%;
+}
